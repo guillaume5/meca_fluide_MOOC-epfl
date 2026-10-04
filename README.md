@@ -8,7 +8,7 @@ Cours similaire MOOC
 - MOOC UC Louvain (contient une démonstration)
     - LouvainX Hydraulique fluviale 1 - Écoulements à surface libre
     - LouvainX: Hydraulique fluviale 2 : Sédiments et morphologie fluviale
-- MOOC Introduction à la mécanique des fluides, IMT, FUN (à évaluer)
+- MOOC Introduction à la mécanique des fluides, IMT, FUN (à évaluer, n'est pas accessible actuellement mais l'a été début 2026)
 - MOOC MIT 3 parties, semble plus complet. (à évaluer)
     - Advanced Fluid Mechanics 1: Fundamentals
     - Advanced Fluid Mechanics 2: The Navier-Stokes Equations for Viscous Flows
